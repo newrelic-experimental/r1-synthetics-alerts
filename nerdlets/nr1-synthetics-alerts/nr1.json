@@ -1,0 +1,14 @@
+{
+    "schemaType": "NERDLET",
+    "id": "nr1-synthetics-alerts-nerdlet",
+    "displayName": "Synthetic Condition Search",
+    "description": "WIP reach out to rdouglas@newrelic.com",
+    "context": {
+        "entities": [
+          {
+            "domain": "SYNTH",
+            "type": "MONITOR"
+          }
+        ]
+      }
+}
